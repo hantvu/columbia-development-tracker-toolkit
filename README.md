@@ -1,6 +1,5 @@
 # [Local Development Tracker Toolkit](https://local-development-tracker-toolkit.netlify.app/)
-
-Detour Detroit is building a development tracker toolkit, using Airtable, that anyone can use to create a development tracker for their city.
+Columbia Missourian is building a development tracker toolkit, using Airtable, that anyone can use to create a development tracker for their city.
 
 You can see a more detailed walkthough of how to use this template site to build and manage a development tracker at a local newsroom [here](https://local-development-tracker-toolkit.netlify.app/guide).
 
