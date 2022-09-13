@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: `Columbia Development Tracker`,
-  siteUrl: `https://local-development-tracker-toolkit.netlify.app`,
+  siteUrl: `https://columbia-development-tracker-toolkit.netlify.app`,
   organization: `Columbia Missourian`,
   city: `Columbia`,
   state: `Missouri`,
