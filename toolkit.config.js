@@ -1,11 +1,11 @@
 module.exports = {
-  siteTitle: `Local Development Tracker Toolkit`,
+  siteTitle: `Columbia Development Tracker`,
   siteUrl: `https://local-development-tracker-toolkit.netlify.app`,
-  organization: `Your Organization`,
-  city: `Detroit`,
-  state: `Michigan`,
-  boundingBox: [-83.287803, 42.25496, -82.910427, 42.45023],
-  primary: '#9ADCFF',
+  organization: `Columbia Missourian`,
+  city: `Columbia`,
+  state: `Missouri`,
+  boundingBox: [-92.428790318,38.8832931549,-92.2370660234,39.0171141041],
+  primary: '#F1B82D',
   secondary: '#FFF89A',
   tertiary: '#FFB2A6',
 }
